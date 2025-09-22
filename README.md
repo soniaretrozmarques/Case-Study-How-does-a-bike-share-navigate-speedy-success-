@@ -72,7 +72,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 Resulting chart:  
-![Number of rides](plots/number_of_rides.png)
+![Number of rides](bike_share_study_case/number_of_rides.png)
 
 
 ---
@@ -87,7 +87,7 @@ all_trips_v2 %>%
   geom_col(position = "dodge")
 ```
 Resulting chart:  
-![Average Duration](plots/average_duration.png) 
+![Average Duration](bike_share_study_case/average_duration.png) 
 
 ---
 
