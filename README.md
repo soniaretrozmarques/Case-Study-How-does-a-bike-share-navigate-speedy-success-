@@ -111,6 +111,6 @@ This analysis shows that Cyclistic can grow profitability by **converting casual
 - Additional perks for frequent weekday riders.  
 
 
-- `script.R` → your full R code.  
+- `script.R` → full R code.  
 - `plots/` → exported PNG charts.  
 - `data/` → small datasets or link to original Divvy data.  
